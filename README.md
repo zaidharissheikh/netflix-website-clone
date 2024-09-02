@@ -20,6 +20,10 @@ The primary purpose of this project is to demonstrate my proficiency in front-en
 - **HTML5:** For structuring the content and creating a semantic markup.
 - **CSS3:** For styling the website and ensuring a responsive layout.
 
+## Preview
+
+- ```https://netflix-clone0695.web.app/```
+
 ## Conclusion
 
 This Netflix clone project represents my dedication to learning and mastering web development technologies. It serves as a testament to my skills and a valuable addition to my portfolio, showcasing my capability to replicate and innovate upon existing web designs.
