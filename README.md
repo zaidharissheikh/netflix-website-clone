@@ -29,3 +29,6 @@ The primary purpose of this project is to demonstrate my proficiency in front-en
 This Netflix clone project represents my dedication to learning and mastering web development technologies. It serves as a testament to my skills and a valuable addition to my portfolio, showcasing my capability to replicate and innovate upon existing web designs.
 
 Feel free to explore the project and provide any feedback!
+
+![screencapture-192-168-18-46-3000-index-html-2024-11-25-14_47_13](https://github.com/user-attachments/assets/a2a602ba-b6a1-44c7-a493-49dd69f0cd7e)
+
