@@ -20,9 +20,6 @@ The primary purpose of this project is to demonstrate my proficiency in front-en
 - **HTML5:** For structuring the content and creating a semantic markup.
 - **CSS3:** For styling the website and ensuring a responsive layout.
 
-## Preview
-
-- ```https://netflix-clone0695.web.app/```
 
 ## Conclusion
 
